@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=MinGW-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/MinGW-Windows
-CND_ARTIFACT_NAME_Debug=gaddis_7thed_chap3_prob3_test_avag
-CND_ARTIFACT_PATH_Debug=dist/Debug/MinGW-Windows/gaddis_7thed_chap3_prob3_test_avag
+CND_ARTIFACT_NAME_Debug=gaddis_7thed_chap3_prob6_widgets
+CND_ARTIFACT_PATH_Debug=dist/Debug/MinGW-Windows/gaddis_7thed_chap3_prob6_widgets
 CND_PACKAGE_DIR_Debug=dist/Debug/MinGW-Windows/package
-CND_PACKAGE_NAME_Debug=gaddis7thedchap3prob3testavag.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/MinGW-Windows/package/gaddis7thedchap3prob3testavag.tar
+CND_PACKAGE_NAME_Debug=gaddis7thedchap3prob6widgets.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/MinGW-Windows/package/gaddis7thedchap3prob6widgets.tar
 # Release configuration
 CND_PLATFORM_Release=MinGW-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/MinGW-Windows
-CND_ARTIFACT_NAME_Release=gaddis_7thed_chap3_prob3_test_avag
-CND_ARTIFACT_PATH_Release=dist/Release/MinGW-Windows/gaddis_7thed_chap3_prob3_test_avag
+CND_ARTIFACT_NAME_Release=gaddis_7thed_chap3_prob6_widgets
+CND_ARTIFACT_PATH_Release=dist/Release/MinGW-Windows/gaddis_7thed_chap3_prob6_widgets
 CND_PACKAGE_DIR_Release=dist/Release/MinGW-Windows/package
-CND_PACKAGE_NAME_Release=gaddis7thedchap3prob3testavag.tar
-CND_PACKAGE_PATH_Release=dist/Release/MinGW-Windows/package/gaddis7thedchap3prob3testavag.tar
+CND_PACKAGE_NAME_Release=gaddis7thedchap3prob6widgets.tar
+CND_PACKAGE_PATH_Release=dist/Release/MinGW-Windows/package/gaddis7thedchap3prob6widgets.tar
 #
 # include compiler specific variables
 #
